@@ -10,5 +10,5 @@
 
 ![Frame 1](https://github.com/Abbas-Asq/PowerBi/assets/23266014/a0ca46b6-6fd8-4faa-9808-a4b99f02f541)
 
-
+<img width="995" alt="Dashboard" src="https://github.com/Abbas-Asq/PowerBi/assets/23266014/a0ca46b6-6fd8-4faa-9808-a4b99f02f541">
 
