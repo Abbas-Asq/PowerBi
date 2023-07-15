@@ -10,6 +10,5 @@
  
 <h3 align="left">This project was prepared for Behrest company.</h3>
 
-
-<img width="995" alt="Dashboard" src="https://github.com/Abbas-Asq/PowerBi/assets/23266014/86d246c6-d89a-4aa8-910a-74947c92f908">
+<img width="995" alt="Dashboard" src="https://github.com/Abbas-Asq/PowerBi/assets/23266014/7b0572ea-8da9-42f8-863c-cab8049b7618">
 
