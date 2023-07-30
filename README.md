@@ -31,5 +31,6 @@
 - [Click Here](https://github.com/Abbas-Asq/PowerBi/tree/main/Dashboard%20%26%20Report/2'nd-Behrest)
 
 
-<img width="995" alt="Dashboard" src="https://github.com/Abbas-Asq/PowerBi/assets/23266014/7b0572ea-8da9-42f8-863c-cab8049b7618">
+<img width="995" alt="Dashboard" src="https://github.com/Abbas-Asq/PowerBi/assets/23266014/1a406fd1-e7d7-4440-a716-425ef8f17c6f">
+
 
