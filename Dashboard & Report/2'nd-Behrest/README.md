@@ -7,6 +7,6 @@
 - Some of the data have been altered, deleted, or are fake for security purposes of the company.
 
 #
-![Frame 32](https://github.com/Abbas-Asq/PowerBi/assets/23266014/d36a01ca-c795-4138-9158-08e7ec8de178)
+![Frame 3232](https://github.com/Abbas-Asq/PowerBi/assets/23266014/c4be4ddd-e0d1-46d5-bcfd-8cbed5d16265)
 
 #
