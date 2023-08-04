@@ -1,6 +1,6 @@
 # PowerBi
 
-![ot5](https://github.com/Abbas-Asq/PowerBi/assets/23266014/2b30b51b-f9c9-4cda-a850-5a8cd83f81a2)
+![ot5](https://github.com/Abbas-Asq/PowerBi/assets/23266014/25063f44-7f87-4a56-9f7e-aa091bccd358)
 
 
 #
@@ -16,6 +16,8 @@
 #
 #
 <h3 align="left">LinkedIn Profile Dashboard in Power BI.</h3>
+<h3
+In this dashboard, you can have statistics for all of your LinkedIn departments and analyze them.</h3>
 
 - Figma.
 - Linkedin
@@ -43,5 +45,5 @@
 - [More Details](https://github.com/Abbas-Asq/PowerBi/tree/main/Dashboard%20%26%20Report/)
 
 
-![44444](https://github.com/Abbas-Asq/PowerBi/assets/23266014/05fffa02-bbb2-46b7-b211-f33b9baf960f)
+![44444](https://github.com/Abbas-Asq/PowerBi/assets/23266014/7a496da1-e2c4-41f5-ad4f-9db2f596fc19)
 
