@@ -8,5 +8,7 @@
 - Some of the data have been altered, deleted, or are fake for security purposes of the company.
 
 #
-<img width="995" alt="Dashboard" src="https://github.com/Abbas-Asq/PowerBi">
+
+![44444](https://github.com/Abbas-Asq/PowerBi/assets/23266014/f34172e7-4490-4410-a607-f2cb54f230bc)
+
 #
